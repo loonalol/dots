@@ -1,0 +1,8 @@
+require("configs.transparent")
+require("configs.neotree")
+require("configs.lualine")
+require("configs.bufferline")
+require("configs.mason")
+require("configs.complete")
+require("configs.cmp")
+require("configs.lsp")
